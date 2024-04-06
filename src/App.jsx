@@ -4,7 +4,7 @@ import Bookings from "./pages/Bookings";
 import Cabins from "./pages/Cabins";
 import Settings from "./pages/Settings";
 import Account from "./pages/Account";
-import Users from "./pages/users";
+import Users from "./pages/Users";
 import Login from "./pages/Login";
 import Checkin from "./pages/Checkin";
 import PageNotFound from "./pages/PageNotFound";
